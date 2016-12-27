@@ -23,12 +23,12 @@
 ** Program Project
 ** Video
 
-*** DONE 楚留香新传 
+*** DONE +楚留香新传+
 CLOSED: [2016-12-27 二 21:38]
 - Note taken on [2016-12-27 二 21:37] \\
   Cool the videos . It's new and different. 9.98 值得在品味一番
 *** TODO 你的名字
-*** DONE 冰川时代5：星际碰撞 
+*** DONE +冰川时代5：星际碰撞+ 
 - Note taken on [2016-12-27 二 21:38] \\
   没有做不到的，只有想不到的，一切皆有可能，思想有多远我们就能走多远.
 CLOSED: [2016-11-16 三 18:24]
@@ -36,7 +36,6 @@ CLOSED: [2016-11-16 三 18:24]
 ** 读书
 *** 费曼物理学三卷
 *** 抽象代数和群论
-*** 具体的找一本书
 *** 专业杂志和期刊的阅读
 *** 拖延心理学以及习惯和养生类的书籍
 *** 聆听音乐
@@ -49,52 +48,20 @@ CLOSED: [2016-11-16 三 18:24]
 *** TODO LCD TV + Internet TV set-top boxes
 *** TODO 洗衣服和洗发精
 DEADLINE: <2016-12-27 二>
-*** DONE 夹克+毛衣+牛仔 =1000 *尺码* <=L <=30A >=43
+*** DONE +夹克.+毛衣.牛仔+ =1000 *尺码* <=L <=30A >=43
 CLOSED: [2016-12-27 二 21:34]
 
 
-* DONE [#A] Exam-Play Car
-** DONE Play Phone to exam the last
-** DONE [#A] Exercise the .... And to Note
-** DONE go to exam by what ?
-** DONE take the ....Card
-** +the eat with ...master+
-** DONE [#A] Clean the rome and The Task_Todo
-CLOSED: [2016-08-30 二 22:49]
-- CLOSING NOTE [2016-08-30 二 22:49]
-** DONE Make ciku for fcitx
-** DONE Lisp
-- message
-- %d %s
-- (< 1 2)
-
-
-
-
 * Graduate
-** graduation/of resignation
-
-*** DONE 研究生宿舍和报名 [100%]
-CLOSED: [2016-08-31 三 20:45]
-**** DONE 8月17-20号之间选宿舍
-**** DONE 8月17-30号之间交学费
-
-*** DONE [#A] 报到
-CLOSED: [2016-09-03 六 08:35] DEADLINE: <2016-09-02 五>
-
-*** DONE 研究生培养计划
-CLOSED: [2016-09-23 五 18:51] DEADLINE: <2016-09-16 周五>
-
-
 ** Lecture
-*** DONE Soft-Hard Event engineering: Event by event jet quenching in fluctuating perfect fluid sQGP at RHIC and LHC
+*** DONE +Soft-Hard Event engineering: Event by event jet quenching in fluctuating perfect fluid sQGP at RHIC and LHC+
 CLOSED: [2016-09-14 三 21:09] DEADLINE: <2016-09-13 周二>
 Lecture 1: Tuesday, September 13, 10:30 AM,  Room 9409
 Lecture 2: Wednesday, September 14, 10:30 AM, Room 9409
 
 ** Learn
 
-*** DONE Blog Github Note
+*** DONE +Blog Github Note+
 CLOSED: [2016-12-12 一 18:24] DEADLINE: <2016-12-11 日>
 
 First we should get a desgin for css!I think it's necessary to log studies and konw yourself.
@@ -133,6 +100,4 @@ DEADLINE: <2017-01-13 五>
 * TODO [#A] Go Home.
 DEADLINE: <2017-01-17 四>
 
-* Think 
 
-- [ ] 期末
