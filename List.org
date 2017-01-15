@@ -55,26 +55,25 @@ CLOSED: [2016-12-12 一 18:24] DEADLINE: <2016-12-11 日>
 
 First we should get a desgin for css!I think it's necessary to log studies and konw yourself.
 
-*** TODO *Install Mathmatics*
+*** TODO Mathmatics* And Python R Mathlab
 
 
-** 收拾
 
-*** TODO 洗衣 + 床单 + 被单 
-SCHEDULED: <2016-12-27 二>
-
-** 考试 [0%]
-*** TODO 数值分析 
-*** TODO 量子场论
+** 考试 [33%]
+*** DONE +数值分析+
+CLOSED: [2017-01-15 日 15:17]
+*** TODO 量子场论 Next Term
+- HomeWorks @2.19+1Week
 *** TODO 政治
 
 *** TODO 英语
 
-**** TODO 英语口语 
+**** TODO +英语口语+ 
 DEADLINE: <2016-12-27 二>
 
-*** TODO 高等量子力学
-*** TODO 高能粒子碰撞和产生
+*** DONE +高等量子力学+
+CLOSED: [2017-01-15 日 15:17]
+*** TODO 高能粒子碰撞和产生 Next Term
 ** 作业
 
 *** TODO Course Of Networks *PPT*
@@ -82,11 +81,7 @@ DEADLINE: <2017-01-13 五>
 
 *** TODO 复杂网络作业以及修订
 
-*** TODO 高量 
-
-*** TODO 场论 6789
-
 * TODO [#A] Go Home.
-DEADLINE: <2017-01-17 四>
+DEADLINE: <2017-01-18 四>
 
 
