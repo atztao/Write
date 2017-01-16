@@ -58,28 +58,20 @@ First we should get a desgin for css!I think it's necessary to log studies and k
 
 
 ## 考试 [33%]
-- [x] +数值分析+
-
-
-  Done: [2017-01-15 日 15:17]
+- [x] +数值分析+  
+Done: [2017-01-15 日 15:17]
 - [ ] 量子场论 Next Term
 - HomeWorks @2.19+1Week
 - [ ] 政治
 - [ ] 英语
-  - [ ] +英语口语+
-  
-  
+  - [ ] +英语口语+  
   DONE: <2016-12-27 二>
-- [x] +高等量子力学+
-
-
+- [x] +高等量子力学+  
   Done : [2017-01-15 日 15:17]
 - [ ] 高能粒子碰撞和产生 Next Term
 - [ ] Course Of Networks #PPT#
 - [ ] 复杂网络作业以及修订
-- [ ] [#A] Go Home.
-
-
+- [ ] [#A] Go Home.  
 DEADLINE: <2017-01-18 四>
 
 
