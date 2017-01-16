@@ -3,7 +3,7 @@
 ## 物理
 - 《论运动和测量》
 - 《论物理学的基础和实在公理》
-- 《论自然规律的形成和演化》 +这是指规律也是自然形成的，而不是从物质开始就受到这种规律的制约，边发展边演化，规律形成到制约物质运动，再到新的定律....+
+- 《论自然规律的形成和演化》
 
 ## 哲学
 - 逻辑概念的客观性的确立和证明
@@ -22,7 +22,7 @@
 ## Video
 
 - [x] +楚留香新传+
-	CLOSED: [2016-12-27 二 21:38] 
+	CLOSED: [2016-12-27 二 21:38]  
 	Cool the videos . It's new and different. 9.98 值得在品味一番
 - [ ]  TODO 你的名字
 - [x]  DONE +冰川时代5：星际碰撞+ 
@@ -31,11 +31,8 @@
 
 ## Shop
 
-- [X] +夹克.+毛衣.牛仔+ =1000 #尺码# <=L <=30A >=43
-
-
+- [X] +夹克.+毛衣.牛仔+ =1000 #尺码# <=L <=30A >=43  
 CLOSED: [2016-12-27 二 21:34]
-
 
 # Graduate
 ## Lecture
@@ -52,12 +49,10 @@ First we should get a desgin for css!I think it's necessary to log studies and k
 
 - [ ] Mathmatics# And Python R Mathlab
 
-
-
 ## 考试 [33%]
 - [x] +数值分析+  
 Done: [2017-01-15 日 15:17]
-- [ ] 量子场论 @NextTerm
+- [ ] 量子场论 #NextTerm
 - HomeWorks @2.19+1Week
 - [ ] 政治
 - [ ] 英语
@@ -65,11 +60,11 @@ Done: [2017-01-15 日 15:17]
   DONE: <2016-12-27 二>
 - [x] +高等量子力学+  
   Done : [2017-01-15 日 15:17]
-- [ ] 高能粒子碰撞和产生 @NextTerm
+- [ ] 高能粒子碰撞和产生 #NextTerm
 
 - 复杂网络
-	- [ ] Course Of Networks #PPT#
-	- [ ] 复杂网络作业以及修订
+	- [ ] Course Of Networks #PPT
+	- [ ] 复杂网络作业Net_ex4以及修订
 - [ ] [#A] Go Home.  
 DEADLINE: <2017-01-18 四>
 
