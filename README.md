@@ -57,7 +57,7 @@ First we should get a desgin for css!I think it's necessary to log studies and k
 ## 考试 [33%]
 - [x] +数值分析+  
 Done: [2017-01-15 日 15:17]
-- [ ] 量子场论 Next Term
+- [ ] 量子场论 @NextTerm
 - HomeWorks @2.19+1Week
 - [ ] 政治
 - [ ] 英语
@@ -65,7 +65,7 @@ Done: [2017-01-15 日 15:17]
   DONE: <2016-12-27 二>
 - [x] +高等量子力学+  
   Done : [2017-01-15 日 15:17]
-- [ ] 高能粒子碰撞和产生 Next Term
+- [ ] 高能粒子碰撞和产生 @NextTerm
 
 - 复杂网络
 	- [ ] Course Of Networks #PPT#
