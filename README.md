@@ -54,9 +54,9 @@ First we should get a desgin for css!I think it's necessary to log studies and k
 Done: [2017-01-15 日 15:17]
 - [ ] 量子场论 #NextTerm
 - HomeWorks @2.19+1Week
-- [ ] 政治
-- [ ] 英语
-  - [ ] +英语口语+  
+- [x] 政治
+- [x] 英语
+  - [x] +英语口语+  
   DONE: <2016-12-27 二>
 - [x] +高等量子力学+  
   Done : [2017-01-15 日 15:17]
