@@ -51,6 +51,8 @@ First we should get a desgin for css!I think it's necessary to log studies and k
 - [ ] ~~Mathmatics# And Python R Mathlab~~
 
 - [ ] C/C++
+
+- [ ] ==.vimrc==
 ## 考试 [33%]
 - [x] +数值分析+  
 Done: [2017-01-15 日 15:17]
