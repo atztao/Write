@@ -4,11 +4,12 @@
 - 《论运动和测量》
 - 《论物理学的基础和实在公理》
 - 《论自然规律的形成和演化》
+- [ ] 需要确定题目
 
 ## 哲学
 - 逻辑概念的客观性的确立和证明
 - 哲学中的实践概念的源起
-
+- 物质是客观的还是运动是客观的？
 
 # 个人
 ## Design and Idea and Found
@@ -47,13 +48,14 @@ Lecture 2: Wednesday, September 14, 10:30 AM, Room 9409
 CLOSED: [2016-12-12 一 18:24] DEADLINE: <2016-12-11 日>  
 First we should get a desgin for css!I think it's necessary to log studies and konw yourself.
 
-- [ ] Mathmatics# And Python R Mathlab
+- [ ] +Mathmatics# And Python R Mathlab+
 
+- [ ] C/C++
 ## 考试 [33%]
 - [x] +数值分析+  
 Done: [2017-01-15 日 15:17]
 - [ ] 量子场论 #NextTerm
-- HomeWorks @2.19+1Week
+- +HomeWorks @2.19+1Week+
 - [x] 政治
 - [x] 英语
   - [x] +英语口语+  
@@ -63,9 +65,9 @@ Done: [2017-01-15 日 15:17]
 - [ ] 高能粒子碰撞和产生 #NextTerm
 
 - 复杂网络
-	- [ ] Course Of Networks #PPT
-	- [ ] 复杂网络作业Net_ex4以及修订
-- [ ] [#A] Go Home.  
+	- [ ] +Course Of Networks #PPT+
+	- [ ] +复杂网络作业Net_ex4以及修订+
+- [x] [#A] Go Home.  
 DEADLINE: <2017-01-18 四>
 
 
