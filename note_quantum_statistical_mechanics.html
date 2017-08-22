@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title></title>
+<meta name="author" content="(Tao Zhang)"/>
+<style type="text/css">
+.underline { text-decoration: underline; }
+</style>
+<link rel="stylesheet" href="file:///home/zhangtao/.emacs.d/reveal.js-master/css/reveal.css"/>
+
+<link rel="stylesheet" href="file:///home/zhangtao/.emacs.d/reveal.js-master/css/theme/moon.css" id="theme"/>
+
+
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = 'file:///home/zhangtao/.emacs.d/reveal.js-master/css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<link rel='stylesheet' href='http://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css'>
+<link rel='stylesheet' href='http://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap-theme.min.css'>
+<script src='http://cdn.bootcss.com/jquery/1.11.1/jquery.min.js'>
+</script><script src='http://cdn.bootcss.com/bootstrap/3.3.0/js/bootstrap.min.js'></script>
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide"><h2 class="author">Tao Zhang</h2><p class="date">Created: 2017-06-18 日 12:56</p>
+</section>
+<section id="table-of-contents">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#/slide-org174cc93">1. canonical ensemble 正则系综</a></li>
+<li><a href="#/slide-org16d9cbd">2. grand canonical ensemble 巨正则系综</a></li>
+</ul>
+</div>
+</div>
+</section>
+<section>
+<section id="slide-org174cc93">
+<h2 id="org174cc93"><span class="section-number-2">1</span> canonical ensemble 正则系综</h2>
+<p>
+\[Z(\beta) \sim \beta = \frac{1}{k_BT}\]
+</p>
+</section>
+</section>
+<section>
+<section id="slide-org16d9cbd">
+<h2 id="org16d9cbd"><span class="section-number-2">2</span> grand canonical ensemble 巨正则系综</h2>
+<p>
+\[\Xi (\beta , z)\sim \beta = \frac{1}{k_BT}\]
+</p>
+</section>
+</section>
+</div>
+</div>
+<script src="file:///home/zhangtao/.emacs.d/reveal.js-master/lib/js/head.min.js"></script>
+<script src="file:///home/zhangtao/.emacs.d/reveal.js-master/js/reveal.js"></script>
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+
+controls: false,
+progress: true,
+history: false,
+center: true,
+slideNumber: 'c',
+rollingLinks: false,
+keyboard: true,
+overview: true,
+
+theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+transitionSpeed: 'default',
+multiplex: {
+    secret: '', // null if client
+    id: '', // id, obtained from socket.io server
+    url: '' // Location of socket.io server
+},
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+ { src: 'file:///home/zhangtao/.emacs.d/reveal.js-master/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+ { src: 'file:///home/zhangtao/.emacs.d/reveal.js-master/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: 'file:///home/zhangtao/.emacs.d/reveal.js-master/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: 'file:///home/zhangtao/.emacs.d/reveal.js-master/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+ { src: 'file:///home/zhangtao/.emacs.d/reveal.js-master/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }]
+});
+</script>
+</body>
+</html>
