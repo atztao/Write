@@ -1,3 +1,8 @@
-* Dict
-canonical ensemble 正则系综 $$Z \sim \beta = \frac{1}{k_BT}$$
-grand canonical ensemble 巨正则系综
+* canonical ensemble 正则系综 
+$$Z(\beta) \sim \beta = \frac{1}{k_BT}$$
+* grand canonical ensemble 巨正则系综
+
+$$\Xi (\beta , z)\sim \beta = \frac{1}{k_BT}$$
+
+
+$$f_n(z)  = $$
